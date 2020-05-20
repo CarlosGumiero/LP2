@@ -1,0 +1,14 @@
+C:\Users\cali3\source\repos\CarlosGumieroProjects\CarlosGumieroProjects\bin\Debug\CarlosGumieroProjects.exe.config
+C:\Users\cali3\source\repos\CarlosGumieroProjects\CarlosGumieroProjects\bin\Debug\CarlosGumieroProjects.exe
+C:\Users\cali3\source\repos\CarlosGumieroProjects\CarlosGumieroProjects\bin\Debug\CarlosGumieroProjects.pdb
+C:\Users\cali3\source\repos\CarlosGumieroProjects\CarlosGumieroProjects\obj\Debug\CarlosGumieroProjects.csprojAssemblyReference.cache
+C:\Users\cali3\source\repos\CarlosGumieroProjects\CarlosGumieroProjects\obj\Debug\CarlosGumieroProjects.Form1.resources
+C:\Users\cali3\source\repos\CarlosGumieroProjects\CarlosGumieroProjects\obj\Debug\CarlosGumieroProjects.Properties.Resources.resources
+C:\Users\cali3\source\repos\CarlosGumieroProjects\CarlosGumieroProjects\obj\Debug\CarlosGumieroProjects.csproj.GenerateResource.cache
+C:\Users\cali3\source\repos\CarlosGumieroProjects\CarlosGumieroProjects\obj\Debug\CarlosGumieroProjects.csproj.CoreCompileInputs.cache
+C:\Users\cali3\source\repos\CarlosGumieroProjects\CarlosGumieroProjects\obj\Debug\CarlosGumieroProjects.exe
+C:\Users\cali3\source\repos\CarlosGumieroProjects\CarlosGumieroProjects\obj\Debug\CarlosGumieroProjects.pdb
+C:\Users\cali3\source\repos\CarlosGumieroProjects\CarlosGumieroProjects\obj\Debug\CarlosGumieroProjects.Ex1.resources
+C:\Users\cali3\source\repos\CarlosGumieroProjects\CarlosGumieroProjects\obj\Debug\CarlosGumieroProjects.Ex2.resources
+C:\Users\cali3\source\repos\CarlosGumieroProjects\CarlosGumieroProjects\obj\Debug\CarlosGumieroProjects.Ex3.resources
+C:\Users\cali3\source\repos\CarlosGumieroProjects\CarlosGumieroProjects\obj\Debug\CarlosGumieroProjects.Ex4.resources
