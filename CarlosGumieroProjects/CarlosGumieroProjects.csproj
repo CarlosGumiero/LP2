@@ -46,48 +46,48 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Ex1.cs">
+    <Compile Include="Exercicio 1\Ex1.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Ex1.Designer.cs">
+    <Compile Include="Exercicio 1\Ex1.Designer.cs">
       <DependentUpon>Ex1.cs</DependentUpon>
     </Compile>
-    <Compile Include="Ex2.cs">
+    <Compile Include="Exercicio 2\Ex2.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Ex2.Designer.cs">
+    <Compile Include="Exercicio 2\Ex2.Designer.cs">
       <DependentUpon>Ex2.cs</DependentUpon>
     </Compile>
-    <Compile Include="Ex3.cs">
+    <Compile Include="Exercicio 3\Ex3.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Ex3.Designer.cs">
+    <Compile Include="Exercicio 3\Ex3.Designer.cs">
       <DependentUpon>Ex3.cs</DependentUpon>
     </Compile>
-    <Compile Include="Ex4.cs">
+    <Compile Include="Exercicio 4\Ex4.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Ex4.Designer.cs">
+    <Compile Include="Exercicio 4\Ex4.Designer.cs">
       <DependentUpon>Ex4.cs</DependentUpon>
     </Compile>
+    <Compile Include="Program.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Ex1.resx">
+    <EmbeddedResource Include="Exercicio 1\Ex1.resx">
       <DependentUpon>Ex1.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Ex2.resx">
+    <EmbeddedResource Include="Exercicio 2\Ex2.resx">
       <DependentUpon>Ex2.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Ex3.resx">
+    <EmbeddedResource Include="Exercicio 3\Ex3.resx">
       <DependentUpon>Ex3.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Ex4.resx">
+    <EmbeddedResource Include="Exercicio 4\Ex4.resx">
       <DependentUpon>Ex4.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
