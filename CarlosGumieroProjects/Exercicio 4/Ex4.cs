@@ -113,6 +113,10 @@ namespace CarlosGumieroProjects
 
             salLiq = salBruto - descontoINSS - descontoIRPF + salFam;
         }
-        
+
+        private void txtNomeFunc_MaskInputRejected(object sender, MaskInputRejectedEventArgs e)
+        {
+
+        }
     }
 }

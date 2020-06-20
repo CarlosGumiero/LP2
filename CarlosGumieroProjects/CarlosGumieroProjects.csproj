@@ -33,6 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -70,6 +71,18 @@
     <Compile Include="Exercicio 4\Ex4.Designer.cs">
       <DependentUpon>Ex4.cs</DependentUpon>
     </Compile>
+    <Compile Include="Exercicio 7\Ex7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Exercicio 7\Ex7.Designer.cs">
+      <DependentUpon>Ex7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Exercicios Diversos\ExDiv.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Exercicios Diversos\ExDiv.Designer.cs">
+      <DependentUpon>ExDiv.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
@@ -89,6 +102,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Exercicio 4\Ex4.resx">
       <DependentUpon>Ex4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Exercicio 7\Ex7.resx">
+      <DependentUpon>Ex7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Exercicios Diversos\ExDiv.resx">
+      <DependentUpon>ExDiv.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
@@ -113,7 +132,10 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

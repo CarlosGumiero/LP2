@@ -205,6 +205,7 @@
             this.txtNomeFunc.Name = "txtNomeFunc";
             this.txtNomeFunc.Size = new System.Drawing.Size(100, 20);
             this.txtNomeFunc.TabIndex = 26;
+            this.txtNomeFunc.MaskInputRejected += new System.Windows.Forms.MaskInputRejectedEventHandler(this.txtNomeFunc_MaskInputRejected);
             // 
             // txtSalarioBrut
             // 

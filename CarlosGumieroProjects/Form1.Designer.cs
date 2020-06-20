@@ -33,6 +33,7 @@
             this.exercício2ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.exercício3ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.exercício4ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.exDivToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -42,7 +43,8 @@
             this.exercício1ToolStripMenuItem,
             this.exercício2ToolStripMenuItem,
             this.exercício3ToolStripMenuItem,
-            this.exercício4ToolStripMenuItem});
+            this.exercício4ToolStripMenuItem,
+            this.exDivToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Size = new System.Drawing.Size(824, 24);
@@ -77,6 +79,12 @@
             this.exercício4ToolStripMenuItem.Text = "Exercício 4";
             this.exercício4ToolStripMenuItem.Click += new System.EventHandler(this.exercício4ToolStripMenuItem_Click);
             // 
+            // exDivToolStripMenuItem
+            // 
+            this.exDivToolStripMenuItem.Name = "exDivToolStripMenuItem";
+            this.exDivToolStripMenuItem.Size = new System.Drawing.Size(48, 20);
+            this.exDivToolStripMenuItem.Text = "ExDiv";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -102,6 +110,7 @@
         private System.Windows.Forms.ToolStripMenuItem exercício2ToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem exercício3ToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem exercício4ToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem exDivToolStripMenuItem;
     }
 }
 
